@@ -1,0 +1,7 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const USER_LOADING = "USER_LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const SEARCH_LOADING = "SEARCH_LOADING";
+export const SEARCH_DATA = "SEARCH_DATA";
+export const GET_FAVORITES = "GET_FAVORITES";
+export const GET_HISTORY = "GET_HISTORY";
